@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import home from '../../assets/images/projects/top-pify-home.png'
+import home from '../../assets/images/projects/top-pify-home.png'  
 
 function Projects() {
     return (
