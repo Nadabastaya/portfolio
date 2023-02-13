@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import home from '../../assets/images/projects/top-pify-home.png'  
+import home from '../../assets/images/projects/hollow-knight.png'  
 
 function Projects() {
     return (
@@ -9,7 +9,7 @@ function Projects() {
                 <Title>Top-pify</Title>
                 <Description>
                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas odit magnam, quia reiciendis unde quasi nihil adipisci veniam repudiandae dolorem in atque, provident animi iusto beatae alias, ab quidem quod praesentium tempore obcaecati quos explicabo. At dolorem accusantium explicabo id!
-                    {/* <ProjectImage src={home} alt="" /> */}
+                    <ProjectImage src={home} alt="" />
                 </Description>
             </Project>
         </ProjectContainer>
